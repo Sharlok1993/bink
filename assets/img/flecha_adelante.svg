@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="15.608154"
+   height="15.606628"
+   viewBox="0 0 15.608154 15.606628"
+   sodipodi:docname="boceto-bink-1.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath118">
+      <path
+         d="M 0,626.546 H 1365.919 V 0 H 0 Z"
+         transform="translate(-558.79691,-196.20911)"
+         id="path118" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath120">
+      <path
+         d="M 0,626.546 H 1365.919 V 0 H 0 Z"
+         transform="translate(-561.33184,-202.11671)"
+         id="path120" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="-0.0004353126"
+       y="1.4483297e-05"
+       width="15.608154"
+       height="15.606628"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1"
+     transform="translate(-2578.4849,-558.54523)">
+    <g
+       id="g1152">
+      <path
+         id="path117"
+         d="m 0,0 c -3.079,0 -5.576,2.496 -5.576,5.576 0,3.079 2.497,5.575 5.576,5.575 3.079,0 5.576,-2.496 5.576,-5.575 C 5.576,2.496 3.079,0 0,0 m 0,11.428 c -3.232,0 -5.853,-2.62 -5.853,-5.852 0,-3.233 2.621,-5.853 5.853,-5.853 3.232,0 5.853,2.62 5.853,5.853 0,3.232 -2.621,5.852 -5.853,5.852"
+         style="fill:#009bdb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1.3333333,0,0,-1.3333333,2586.2892,573.78253)"
+         clip-path="url(#clipPath118)" />
+      <path
+         id="path119"
+         d="M 0,0 -2.095,2.095 C -2.222,2.222 -2.774,2.459 -2.74,1.553 v -1.03 h -2.322 c -0.096,0 -0.173,-0.078 -0.173,-0.174 v -1.163 c 0,-0.096 0.077,-0.174 0.173,-0.174 h 2.322 v -1.026 c -0.004,-0.918 0.486,-0.67 0.645,-0.542 L 0,-0.462 C 0.128,-0.334 0.128,-0.127 0,0"
+         style="fill:#009bdb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1.3333333,0,0,-1.3333333,2589.6691,565.90573)"
+         clip-path="url(#clipPath120)" />
+    </g>
+  </g>
+</svg>

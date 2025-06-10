@@ -1,0 +1,25 @@
+<?php
+    $valor=$_REQUEST['valor'];
+    $enganche=$_REQUEST['enganche'];
+    $plazo=$_REQUEST['plazo'];
+    if(isset($_REQUEST['seguro'])){
+        $seguro=$_REQUEST['seguro'];
+    }
+    else{
+        $seguro=0;
+    }
+    $pagoMP=$_REQUEST['pagoMP'];
+
+    $factor_seg_vida=factor_seg_vida(4);
+    $seg_auto=seg_auto(4);
+    $factor_seg_auto=factor_seg_auto(4);
+    $factor_comision=factor_comision(4);
+    $factor_comision2=factor_comision2(4);
+    $tia1=tia1(4);
+    $tia2=tia2(4);
+    $tia3=tia3(4);
+    $tia4=tia4(4);
+    $tia5=tia5(4);
+    $CAT=CAT(4);
+    $id=4;
+?>

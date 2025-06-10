@@ -1,0 +1,6 @@
+.css_id_marca_label, .css_id_marca_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_marca_grid_line, .css_id_marca_grid_line:hover {vertical-align: top;text-align: right;}
+.css_marca_label, .css_marca_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_marca_grid_line, .css_marca_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_status_label, .css_id_status_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_status_grid_line, .css_id_status_grid_line:hover {vertical-align: top;text-align: right;}

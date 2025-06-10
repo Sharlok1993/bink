@@ -1,0 +1,12 @@
+.css_id_credito_label, .css_id_credito_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_credito_grid_line, .css_id_credito_grid_line:hover {vertical-align: top;text-align: right;}
+.css_credito_label, .css_credito_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_credito_grid_line, .css_credito_grid_line:hover {vertical-align: top;text-align: right;}
+.css_url_f_label, .css_url_f_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_url_f_grid_line, .css_url_f_grid_line:hover {vertical-align: top;text-align: right;}
+.css_img_label, .css_img_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_img_grid_line, .css_img_grid_line:hover {vertical-align: top;text-align: right;}
+.css_estilo_label, .css_estilo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estilo_grid_line, .css_estilo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_descripcion_label, .css_descripcion_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descripcion_grid_line, .css_descripcion_grid_line:hover {vertical-align: top;text-align: right;}

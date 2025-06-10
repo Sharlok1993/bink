@@ -1,0 +1,8 @@
+.css_id_submarcas_label, .css_id_submarcas_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_submarcas_grid_line, .css_id_submarcas_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_marca_label, .css_id_marca_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_marca_grid_line, .css_id_marca_grid_line:hover {vertical-align: top;text-align: right;}
+.css_submarca_label, .css_submarca_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_submarca_grid_line, .css_submarca_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_status_label, .css_id_status_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_status_grid_line, .css_id_status_grid_line:hover {vertical-align: top;text-align: right;}

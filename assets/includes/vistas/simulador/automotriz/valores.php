@@ -1,0 +1,13 @@
+<?php
+$factor_seg_vida=factor_seg_vida($id_credito);
+$seg_auto=seg_auto($id_credito);
+$factor_seg_auto=factor_seg_auto($id_credito);
+$factor_comision=factor_comision($id_credito);
+$factor_comision2=factor_comision2($id_credito);
+$tia1=tia1($id_credito);
+$tia2=tia2($id_credito);
+$tia3=tia3($id_credito);
+$tia4=tia4($id_credito);
+$tia5=tia5($id_credito);
+$CAT=CAT($id_credito);
+?>

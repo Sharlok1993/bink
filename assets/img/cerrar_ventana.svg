@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="22.052734"
+   height="19.153351"
+   viewBox="0 0 22.052735 19.153351"
+   sodipodi:docname="boceto-bink-1.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1098">
+      <path
+         d="M 0,654.027 H 1365.919 V 0 H 0 Z"
+         transform="translate(-811.83852,-450.81301)"
+         id="path1098" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="-2.1496819e-05"
+       y="-2.6343985e-06"
+       width="22.052734"
+       height="19.153351"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1"
+     transform="translate(-19494.195,-270.952)">
+    <path
+       id="path1097"
+       d="M 0,0 H 3.98 L 7.886,-4.612 11.801,0 h 3.974 l -5.896,-6.965 6.268,-7.4 h -3.98 l -4.278,5.05 -4.276,-5.05 h -4.005 l 6.286,7.406 z"
+       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,19494.718,270.952)"
+       clip-path="url(#clipPath1098)" />
+  </g>
+</svg>

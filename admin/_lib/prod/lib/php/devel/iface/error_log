@@ -1,0 +1,31 @@
+[02-Apr-2024 14:24:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'u584506986_bink_user'@'localhost' (using password: YES) in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php:1590
+Stack trace:
+#0 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(1590): PDO->__construct('mysql:host=loca...', 'u584506986_bink...', 'Hikiboy@5342', Array)
+#1 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(1877): nmPageAdminSysAllConectionsCreateWizard->GetListDatabaseNameMySql('localhost', 'u584506986_bink...', 'Hikiboy@5342', 'pdo_mysql', Array)
+#2 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(277): nmPageAdminSysAllConectionsCreateWizard->Ajax()
+#3 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/iface/admin_sys_allconections_create_wizard.php(6): nmPag in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php on line 1590
+[02-Apr-2024 14:27:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'u584506986_bink_user'@'localhost' (using password: YES) in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php:1590
+Stack trace:
+#0 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(1590): PDO->__construct('mysql:host=loca...', 'u584506986_bink...', 'Hikiboy@5342', Array)
+#1 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(1877): nmPageAdminSysAllConectionsCreateWizard->GetListDatabaseNameMySql('localhost', 'u584506986_bink...', 'Hikiboy@5342', 'pdo_mysql', Array)
+#2 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(277): nmPageAdminSysAllConectionsCreateWizard->Ajax()
+#3 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/iface/admin_sys_allconections_create_wizard.php(6): nmPag in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php on line 1590
+[02-Apr-2024 14:28:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'binkmx__bink_user'@'localhost' (using password: NO) in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php:1590
+Stack trace:
+#0 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(1590): PDO->__construct('mysql:host=loca...', 'binkmx__bink_us...', '', Array)
+#1 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(1877): nmPageAdminSysAllConectionsCreateWizard->GetListDatabaseNameMySql('localhost', 'binkmx__bink_us...', '', 'pdo_mysql', Array)
+#2 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php(277): nmPageAdminSysAllConectionsCreateWizard->Ajax()
+#3 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/iface/admin_sys_allconections_create_wizard.php(6): nmPageAdminSysAllConectionsCreate in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsCreateWizard.class.php on line 1590
+[02-Apr-2024 14:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/binkmx/public_html/admin/_lib/prod/third/adodb/drivers/adodb-pdo.inc.php:403
+Stack trace:
+#0 /home/binkmx/public_html/admin/_lib/prod/third/adodb/adodb.inc.php(1169): ADODB_pdo->_query('SET NAMES 'utf8...', false)
+#1 /home/binkmx/public_html/admin/_lib/prod/third/adodb/adodb.inc.php(1151): ADOConnection->_Execute('SET NAMES 'utf8...', false)
+#2 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/interface/nmConnection.class.php(553): ADOConnection->Execute('SET NAMES 'utf8...')
+#3 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsTest.class.php(22): nmConnection->TestConn(Array)
+#4 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPageAdminSysAllConectionsTest.class.php(81): nmPageAdminSysAllConectionsTest->TestConection(Array)
+#5 /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/class/page/nmPage.class.php(987): nmPageAdminSysAllConectionsTest->DisplayContent()
+#6 /h in /home/binkmx/public_html/admin/_lib/prod/third/adodb/drivers/adodb-pdo.inc.php on line 403
+[02-Apr-2024 14:31:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/tpl/scriptcase/body_admin_sys_allconections_create_wizard_sgdb2.tpl.php on line 289
+[02-Apr-2024 14:31:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/tpl/scriptcase/body_admin_sys_allconections_create_wizard_sgdb2.tpl.php on line 290
+[02-Apr-2024 14:31:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/tpl/scriptcase/body_admin_sys_allconections_create_wizard_sgdb2.tpl.php on line 291
+[02-Apr-2024 14:31:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/binkmx/public_html/admin/_lib/prod/lib/php/devel/tpl/scriptcase/body_admin_sys_allconections_create_wizard_sgdb2.tpl.php on line 292
